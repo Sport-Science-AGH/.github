@@ -1,1 +1,1 @@
-# .github
+# SKN Sport Science AGH
